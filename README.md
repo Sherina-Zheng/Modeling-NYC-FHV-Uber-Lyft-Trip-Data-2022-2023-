@@ -1,6 +1,6 @@
-### Modeling-NYC-FHV-Uber-Lyft-Trip-Data-2022-2023 ###
+# Modeling-NYC-FHV-Uber-Lyft-Trip-Data-2022-2023 
 
-# Description of the Data Set
+# Description of the Data Set #
 I propose to analyze and model the "NYC FHV (Uber/Lyft) Trip Data Expanded (01/2022-06/2023)" dataset, only a short period of time frame was picked because it’d take a long time to process if it were to be analyzed through databricks. This dataset contains comprehensive information about every For-Hire Vehicle (FHV) trip in New York City spanning the years 2022 to 2023. The dataset includes attributes such as:
 
  0   hvfhs_license_num     object        
