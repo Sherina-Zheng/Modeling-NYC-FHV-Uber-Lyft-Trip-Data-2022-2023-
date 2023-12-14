@@ -1,6 +1,6 @@
 # Modeling-NYC-FHV-Uber-Lyft-Trip-Data-2022-2023 
 
-# Description of the Data Set #
+### Description of the Data Set ###
 I propose to analyze and model the "NYC FHV (Uber/Lyft) Trip Data Expanded (01/2022-06/2023)" dataset, only a short period of time frame was picked because it’d take a long time to process if it were to be analyzed through databricks. This dataset contains comprehensive information about every For-Hire Vehicle (FHV) trip in New York City spanning the years 2022 to 2023. The dataset includes attributes such as:
 
  0   hvfhs_license_num     object        
@@ -32,7 +32,7 @@ I propose to analyze and model the "NYC FHV (Uber/Lyft) Trip Data Expanded (01/2
 The dataset provides information about the total miles for the passenger trip, the total time in seconds for the passenger trip, the base passenger fare before tolls, tips, taxes, and fees, the total amount of all tolls paid in the trip, the total amount collected in the trip for the Black Car Fund, the total amount collected in the trip for NYS sales tax, the total amount collected in the trip for NYS congestion surcharge, and the airport fee of $2.50 for both drop off and pick up at LaGuardia, Newark, and John F. Kennedy airports.
 Moreover, the dataset includes the total amount of tips received from the passenger, the total driver pay (not including tolls or tips and net of commission, surcharges, or taxes), the flag indicating whether the passenger agreed to a shared/pooled ride and whether the passenger shared the vehicle with another passenger who booked separately at any point during the trip.
 
-# Intended Modeling Objective
+### Intended Modeling Objective ###
 
 My primary objective is to build a predictive model that can forecast demand for For-Hire Vehicles in different areas of New York City. This model will serve multiple purposes:
 
